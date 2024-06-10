@@ -1,0 +1,14 @@
+.articles{
+    margin-top: 240px;
+    background-image: url("/public/back.jpg");
+    background-size: cover;
+    
+
+    
+    
+}
+.card{
+    min-height: 50px;
+    height: 100%;
+    overflow: auto;
+}
